@@ -1,0 +1,36 @@
+[33mcommit dd982cef4da68185a7a3622d2f9803ac0164382a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 122931a 7e402a2
+Author: Bui-Tung-Hung <buitunghung123@gmail.com>
+Date:   Thu May 2 20:57:29 2024 +0700
+
+    Fix merge conflict
+
+[33mcommit 7e402a20a83b108c4c2b80c43fd564e6664b8342[m
+Author: Bui-Tung-Hung <124763673+Bui-Tung-Hung@users.noreply.github.com>
+Date:   Thu May 2 20:54:26 2024 +0700
+
+    Update hi.html
+
+[33mcommit 122931a57377d2ca4c7becfd0cd389f7ba621a92[m
+Author: Bui-Tung-Hung <buitunghung123@gmail.com>
+Date:   Thu May 2 20:53:27 2024 +0700
+
+    Update h1
+
+[33mcommit b691042f767633ed27d99bd6d670ca436db680d1[m
+Author: Bui-Tung-Hung <124763673+Bui-Tung-Hung@users.noreply.github.com>
+Date:   Thu May 2 20:48:09 2024 +0700
+
+    Add h2
+
+[33mcommit 45853f36cf9cc65cfc5876b77967c46672294760[m
+Author: Bui-Tung-Hung <buitunghung123@gmail.com>
+Date:   Thu May 2 20:45:47 2024 +0700
+
+    Add a Heading
+
+[33mcommit b4f2f2b43b11d13648e252d2ecfd3f8a6d9fb6bc[m
+Author: Bui-Tung-Hung <buitunghung123@gmail.com>
+Date:   Thu May 2 20:38:07 2024 +0700
+
+    Add File
